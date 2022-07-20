@@ -175,6 +175,9 @@ p{
     .blogs-part{
         grid-template-columns: repeat(2, 1fr);
     }
+    .match-info{
+        width: 100%;
+    }
     .tab-btn{
         display: block;
     }
@@ -209,6 +212,7 @@ p{
         grid-template-columns: 1fr;
         margin: 0 auto;
     }
+    
     
     /* for footer */
     .bottom-manu{
